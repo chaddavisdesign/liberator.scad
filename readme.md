@@ -8,7 +8,7 @@ To create a source file for a 3D printed firearm that could be printed in plain 
 |--|--|
 **The result was a 6761 character script**
 <figure>
-<img src="https://i.imgur.com/7OuN9Q9.png"/>
+<img src="https://i.imgur.com/PVSJOFj.png"/>
 </figure>
 
 **Shameless plug**
