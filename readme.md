@@ -1,5 +1,8 @@
-# Liberator.scad
+#See http://ungovernable.art for current publised 3D2A minified designs
 
+Rather than delte the past this will stay here, but all other instances I have published have been removed due to the poor safety and poor documentation of the original design this was based on, and the character of the author who seems set of creating a monopoly in this space that he solely can profit from, and his conviction of child sex crimes.
+
+# Liberator.scad
 
 **Why?**
 To create a source file for a 3D printed firearm that could be printed in plain text on a t-shirt; a tradition to demonstrate the absurdity of attempting to outlaw code.
