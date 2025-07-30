@@ -1,6 +1,6 @@
-#See http://ungovernable.art for current publised 3D2A minified designs
+# See http://ungovernable.art for current publised 3D2A minified designs
 
-Rather than delte the past this will stay here, but all other instances I have published have been removed due to the poor safety and poor documentation of the original design this was based on, and the character of the author who seems set of creating a monopoly in this space that he solely can profit from, and his conviction of child sex crimes.
+Rather than delete the past this will stay here, but all other instances I have published have been removed due to the poor safety and poor documentation of the original design this was based on, and the character of the author who seems set of creating a monopoly in this space that he can profit from, and his conviction of child sex crimes.
 
 # Liberator.scad
 
